@@ -21,6 +21,6 @@ I am a [Data Analyst](https://codeclan.com/courses/data-analysis/) and I also ha
 </p>
 <p align="center">
   <a href = "https://www.linkedin.com/in/joaonetoprofile/" target = "_blank">
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt = "linkedin logo" width = "40" height = "40" />
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt = "linkedin logo" width = "35" height = "35" />
   </a> 
 </p>
