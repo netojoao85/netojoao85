@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, I'm João Neto 👋
 
-<!--
-**netojoao85/netojoao85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a [Data Analyst](https://codeclan.com/courses/data-analysis/) and I also have a BSc in Automation Engineer and a MSc in Management and Industrial Strategy. Fluent in English, Portuguese and Spanish.
 
-Here are some ideas to get you started:
+## Skills
+<img src= "https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt ="r logo" width = "50" height = "50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt ="python logo" width = "50" height = "50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt ="exp logo" width = "50" height = "50" /> <img src= "https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt ="exp logo" width = "50" height = "50" /> <img src= "https://github.com/rstudio/hex-stickers/blob/master/SVG/shiny.svg" alt ="exp logo" width = "50" height = "50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt ="exp logo" width = "50" height = "50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt ="exp logo" width = "50" height = "50" /> <img src= "https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt ="exp logo" width = "50" height = "50" /> <img src= "https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt ="exp logo" width = "50" height = "50" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- [x] Data wrangling & exploratory analysis
+- [x] Data visualisations
+- [x] Notebooks and reporting   
+- [x] Database querying   
+- [x] Statistical tests & Regression   
+- [x] Version control with git & github   
+
+
+<p align = "center">
+  <i> 
+    Get in touch
+  </i>
+</p>
+<p align="center">
+  <a href = "https://www.linkedin.com/in/joaonetoprofile/" target = "_blank">
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt = "linkedin logo" width = "40" height = "40" />
+  </a> 
+</p>
