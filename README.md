@@ -1,4 +1,4 @@
-### Hi there, I'm João Neto 👋 A [Data Analyst](https://codeclan.com/courses/data-analysis/) highly skilled in extract and communicate data insights to generate recommendations that aid improve the processes.
+### Hi there, I'm João Neto 👋 A [Data Analyst](https://codeclan.com/courses/data-analysis/) highly skilled in extract and communicate data insights to generate predictions/recommendations that aid improvement of processes and workflows.
         
          
 ##
