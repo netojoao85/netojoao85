@@ -9,7 +9,8 @@
 - [x] Notebooks and reporting       
 - [x] Database querying      
 - [x] Statistical tests & Regression
-- [x] Version control with git & github    
+- [x] Version control with git & github 
+##
 <p align = "center">
   <i> 
     Get in touch
