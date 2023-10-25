@@ -11,7 +11,8 @@ A BSc Automation & Control Engineer with a professional qualification in Data Sc
 - [X] **R Shiny** - Apps development     
       https://joaoneto.shinyapps.io/hyrox_ellite_2023      
       https://joaoneto.shinyapps.io/my_running      
-- [x] **Dashboards** with Tableau & Power BI
+- [x] **Dashboards** with Tableau & Power BI         
+      https://public.tableau.com/app/profile/neto.joao               
 - [x] **Notebooks and reporting** with R Markdown & jupyter
 - [x] **Database querying** with PostgreSQL
 - [x] **Statistical tests & Regression**
