@@ -8,7 +8,10 @@ A BSc Automation & Control Engineer with a professional qualification in Data Sc
 - [x] **Programming languages** R / Python / SQL / VBA
 - [x] **Data wrangling & exploratory analysis** with tidyverse & Pandas
 - [x] **Data visualisations** with ggplot2 & matplotlib/seaborn
-- [x] **Dashborads** with R Shiny, Tableau & Power BI
+- [X] **R Shiny** - Apps development     
+      https://joaoneto.shinyapps.io/hyrox_ellite_2023      
+      https://joaoneto.shinyapps.io/my_running      
+- [x] **Dashboards** with Tableau & Power BI
 - [x] **Notebooks and reporting** with R Markdown & jupyter
 - [x] **Database querying** with PostgreSQL
 - [x] **Statistical tests & Regression**
