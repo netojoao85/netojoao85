@@ -1,5 +1,5 @@
 ### Hi there, I'm João Neto 👋    
-
+<img align = "right" src= "https://github.com/netojoao85/icons/blob/main/banner1.png" height = "200" />
 <img align = "right" src= "https://github.com/netojoao85/icons/blob/main/banner.png" height = "200" />
 
 <ul align = "left">
