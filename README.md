@@ -7,7 +7,7 @@ Automation solutions/systems <br>
 Data transformation/manipulation <br>
 Tool development for process improvements <br>
 Creating Impactful Data Visualisations <br>
-Providing data-driven insights to aid decision-making
+Providing data-driven insights to aid decision-making <br>
 <br>
 
 ##
