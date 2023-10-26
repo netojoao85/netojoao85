@@ -1,6 +1,6 @@
 ### Hi there, I'm João Neto 👋    
 
-<img align = "right" src= "https://github.com/netojoao85/icons/blob/main/background4.png" height = "210" />
+<img align = "right" src= "https://github.com/netojoao85/icons/blob/main/banner.png" height = "210" />
 
 <ul align = "left">
 👨🏻‍🎓 A qualified Data Scientist with a BSc in Automation & control engineering and an MSc in Management & Industrial Strategy. <br><br>
