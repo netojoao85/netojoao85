@@ -1,7 +1,7 @@
 ### Hi there, I'm João Neto 👋     
 👨🏻‍🎓 A qualified Data Scientist with a BSc in Automation & control engineering and an MSc in Management & Industrial Strategy.          
 💻 An enthusiastic about:   
- <img src= "https://github.com/netojoao85/icons/blob/main/background.png" width = "400" height = "220" />
+ <img src= "https://github.com/netojoao85/icons/blob/main/background1.png" width = "400" height = "220" />
    ▪️ Automation <br>
    ▪️ Data transformation/manipulation <br>
    ▪️ Tool development for process improvements <br>
