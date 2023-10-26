@@ -12,10 +12,6 @@
 ▪️ Providing data-driven insights to aid decision-making
 </ul>
 
-
-
-
-<br>
 <br>
 <br>
 <br>
