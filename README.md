@@ -28,6 +28,7 @@
 - [x] **Notebooks and reporting** with R Markdown & jupyter
 - [x] **Database querying** with PostgreSQL
 - [x] **Statistical tests & Regression**
+- [x] **Natural Language techniques:** sentimental analysis and text mining
 - [x] **Version control** with git & github
 ##
 <p align = "center">
