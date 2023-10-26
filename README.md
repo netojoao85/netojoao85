@@ -5,14 +5,13 @@
 <img align = "left" src= "https://github.com/netojoao85/icons/blob/main/background3.png" height = "160"  />
 
 <ul>
-▪️ Automation <br>
+▪️ Automation systems/solutions <br>
 ▪️ Data transformation/manipulation <br>
 ▪️ Tool development for process improvements  <br>
 ▪️ Creating impactful Data visualisations <br>
 ▪️ Providing data-driven insights to aid decision-making
 </ul>
 
-<br>
 <br>
 <br>
 
