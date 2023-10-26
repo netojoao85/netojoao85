@@ -4,8 +4,8 @@
 💻 An enthusiastic about: 
 <ul>
  
-<ol><img align = "right" src= "https://github.com/netojoao85/icons/blob/main/background2.png" width = "400" height = "220" /></ol>
-<ol>▪️ Automation</ol>
+<ol><img align = "right" src= "https://github.com/netojoao85/icons/blob/main/background3.png" width = "400" height = "220" /></ol>
+<ol> ▪️ Automation </ol>
 <ol> ▪️ Data transformation/manipulation</ol>
 <ol> ▪️ Tool development for process improvements </ol>
 <ol>▪️ Creating impactful Data visualisations</ol>
