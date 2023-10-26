@@ -11,10 +11,8 @@
       <ol>▪️ Creating Impactful Data Visualisations </ol>
       <ol>▪️ Providing data-driven insights to aid decision-making </ol>
 </ul>
-<br>
-<hr>
 
-
+##  
 <img src= "https://github.com/netojoao85/icons/blob/main/r_programming.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/python.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/sql.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/VBA.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/tidyverse.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/pandas.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/ggplot2.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/shiny.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/tableau.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/power_bi.svg" width = "50" height = "50" /><img src= "https://github.com/netojoao85/icons/blob/main/rmarkdown.svg" width = "50" height = "50" /> <img src="https://github.com/netojoao85/icons/blob/main/jupyter.svg" width = "50" height = "50" /><img src= "https://github.com/netojoao85/icons/blob/main/postres_sql.svg" width = "50" height = "50" /><img src= "https://github.com/netojoao85/icons/blob/main/git.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/github_icon.svg" width = "50" height = "50" />       
 
 
@@ -33,7 +31,6 @@
 - [x] **Statistical tests & Regression**
 - [x] **Version control** with git & github
 ##
-<hr>
 <p align = "center">
   <i> 
     Get in touch
