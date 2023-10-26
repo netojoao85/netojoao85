@@ -19,7 +19,7 @@
 
 ### Skilled in:
 - [x] **Programming languages** R / Python / SQL / VBA
-- [x] **Data wrangling & exploratory analysis** with tidyverse & Pandas
+- [x] **Data wrangling & exploratory analysis** with tidyverse & Pandas and NumPy
 - [x] **Data visualisations** with ggplot2 & matplotlib/seaborn
 - [X] **R Shiny** complemented with HTML & CSS      
       https://joaoneto.shinyapps.io/hyrox_ellite_2023      
