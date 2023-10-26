@@ -2,13 +2,13 @@
 
 👨🏻‍🎓 A qualified Data Scientist with a BSc in Automation & control engineering and an MSc in Management & Industrial Strategy.<br>
 💻 An passionate about: <br>
-<img align = "left" src= "https://github.com/netojoao85/icons/blob/main/background3.png" height = "160"  />
+<img align = "right" src= "https://github.com/netojoao85/icons/blob/main/background3.png" height = "230"  />
 
 <ul>
-▪️ Automation systems/solutions <br>
-▪️ Data transformation/manipulation <br>
-▪️ Tool development for process improvements  <br>
-▪️ Creating impactful Data visualisations <br>
+▪️ Automation systems/solutions <br><br>
+▪️ Data transformation/manipulation <br><br>
+▪️ Tool development for process improvements  <br><br>
+▪️ Creating impactful Data visualisations <br><br>
 ▪️ Providing data-driven insights to aid decision-making
 </ul>
 
