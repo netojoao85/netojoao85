@@ -21,7 +21,7 @@
 - [x] **Programming languages** R / Python / SQL / VBA
 - [x] **Data wrangling & exploratory analysis** with tidyverse & Pandas
 - [x] **Data visualisations** with ggplot2 & matplotlib/seaborn
-- [X] **R Shiny** - Apps development     
+- [X] **R Shiny** complemented with HTML & CSS
       https://joaoneto.shinyapps.io/hyrox_ellite_2023      
       https://joaoneto.shinyapps.io/my_running      
 - [x] **Dashboards** with Tableau & Power BI         
