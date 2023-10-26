@@ -2,7 +2,7 @@
 
 👨🏻‍🎓 A qualified Data Scientist with a BSc in Automation & control engineering and an MSc in Management & Industrial Strategy.<br>
 💻 An passionate about: <br>
-<img align = "left" src= "https://github.com/netojoao85/icons/blob/main/background3.png" height = "200"  />
+<img align = "left" src= "https://github.com/netojoao85/icons/blob/main/background3.png" height = "160"  />
 
 <ul>
 ▪️ Automation <br>
