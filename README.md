@@ -21,10 +21,10 @@
 - [x] **Data wrangling & exploratory analysis** with tidyverse & Pandas and NumPy
 - [x] **Data visualisations** with ggplot2 & matplotlib/seaborn
 - [X] **R Shiny** complemented with HTML & CSS      
-      https://joaoneto.shinyapps.io/hyrox_ellite_2023         
-      https://joaoneto.shinyapps.io/my_running              
+      https://jneto.shinyapps.io/hyrox_wc23              
+      https://jneto.shinyapps.io/my_running                         
 - [x] **Dashboards** with Tableau & Power BI         
-      https://public.tableau.com/app/profile/neto.joao               
+      https://public.tableau.com/app/profile/jneto                      
 - [x] **Notebooks and reporting** with R Markdown & jupyter
 - [x] **Database querying** with PostgreSQL
 - [x] **Statistical tests & Regression**
