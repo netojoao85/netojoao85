@@ -1,6 +1,16 @@
 <h1 align="center"> Hi there, I'm João Neto 👋  </h1>
+<p align = "center">
+  <i> 
+    Get in touch
+  </i>
+</p>
+<p align="center">
+  <a href = "https://www.linkedin.com/in/joaonetoprofile/" target = "_blank">
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt = "linkedin logo" width = "35" height = "35" />
+  </a> 
+</p>
 
-<details>
+<details align="center>
 <summary> <b>🔎 Expand for more! </b> </summary>
       <details><summary><b>👤 About me</b></summary>
             AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa
