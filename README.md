@@ -6,13 +6,12 @@
   </a> 
 </p>
 
-<details align = "left">
-<summary> <b>🔎 Expand for more! </b> </summary>
-      <details align = "left"><summary><b>👤 About me</b></summary>
+<details align = "left"><summary><b>👤 About me</b></summary>
             AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa
             AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-      </details>
-      <details> <summary><b>💻 Tech </b></summary> <br>
+</details>
+      
+<details> <summary><b>💻 Tech </b></summary>
             <table>
               <thead>
                 <tr>
@@ -47,34 +46,34 @@
                 </tr>
               </tbody>
             </table>
-      </details>
-      <details> <summary><b>😍 Area of Interest </b></summary>  
+</details>
+      
+<details> <summary><b>😍 Area of Interest </b></summary>  
       <ul align = "left">
-            📉Data Analysis
-                  <ol>▪️ Data clean and transformation </ol>
-                  <ol>▪️ Provide data-driven insights to aid decision-making </ol>
-                  <ol>▪️ Create impactful Data Visualisations</ol>
-            📉Data Analysis
-                  <ol>▪️ Automation solutions/systems </ol>
-                  <ol>▪️ Tool development for process improvements </ol>
-      </ul>      
-      </details>    
-     <details> <summary><b>🛠️ Skills </b></summary>  
-- [x] **Programming languages** R / Python / SQL / VBA      
-- [x] **Data wrangling & exploratory analysis** with tidyverse & Pandas and NumPy       
-- [x] **Data visualisations** with ggplot2 & matplotlib/seaborn       
-- [X] **R Shiny** complemented with HTML & CSS      
-        https://jneto.shinyapps.io/hyrox_wc23              
-        https://jneto.shinyapps.io/my_running                         
-- [x] **Dashboards** with Tableau & Power BI         
-        https://public.tableau.com/app/profile/jneto                      
-- [x] **Notebooks and reporting** with R Markdown & jupyter        
-- [x] **Database querying** with PostgreSQL        
-- [x] **Statistical tests & Regression**              
-- [x] **Natural Language techniques:** sentimental analysis and text mining              
-- [x] **Version control** with git & github              
-        </details>    
-</details>       
-
+        📉Data Analysis
+            <ol>▪️ Data clean and transformation </ol>
+             <ol>▪️ Provide data-driven insights to aid decision-making </ol>
+             <ol>▪️ Create impactful Data Visualisations</ol>
+        📉Data Analysis
+            <ol>▪️ Automation solutions/systems </ol>
+            <ol>▪️ Tool development for process improvements </ol>
+      </ul>
+</details> 
+      
+<details> <summary><b>🛠️ Skills </b></summary>  
+    - [x] **Programming languages** R / Python / SQL / VBA      
+    - [x] **Data wrangling & exploratory analysis** with tidyverse & Pandas and NumPy       
+    - [x] **Data visualisations** with ggplot2 & matplotlib/seaborn       
+    - [X] **R Shiny** complemented with HTML & CSS      
+            https://jneto.shinyapps.io/hyrox_wc23              
+            https://jneto.shinyapps.io/my_running                         
+    - [x] **Dashboards** with Tableau & Power BI         
+            https://public.tableau.com/app/profile/jneto                      
+    - [x] **Notebooks and reporting** with R Markdown & jupyter        
+    - [x] **Database querying** with PostgreSQL        
+    - [x] **Statistical tests & Regression**              
+    - [x] **Natural Language techniques:** sentimental analysis and text mining              
+    - [x] **Version control** with git & github              
+</details>     
 ##
 
