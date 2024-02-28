@@ -6,6 +6,8 @@
   </a> 
 </p>
 
+<img src = "https://github.com/netojoao85/icons/blob/main/banner5.png" height = "400" />
+
 <details align = "left"><summary><b>👤 About me</b></summary> <br>
             AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa
             AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
