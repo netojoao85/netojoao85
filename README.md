@@ -6,8 +6,41 @@
             AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa
             AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
       </details>
-      <details> <summary><b>💻 Technologies </b></summary>  
-      <img src= "https://github.com/netojoao85/icons/blob/main/r_programming.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/python.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/sql.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/VBA.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/tidyverse.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/pandas.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/ggplot2.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/shiny.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/html5.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/css3.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/tableau.svg" width = "50" height = "50" /> <img src= "https://github.com/netojoao85/icons/blob/main/power_bi.svg" width = "50" height = "50" /><img src= "https://github.com/netojoao85/icons/blob/main/rmarkdown.svg" width = "50" height = "50" /> <img src="https://github.com/netojoao85/icons/blob/main/jupyter.svg" width = "50" height = "50" /><img src= "https://github.com/netojoao85/icons/blob/main/postres_sql.svg" width = "50" height = "50" />   
+      <details> <summary><b>💻 Tech </b></summary> <br>
+            <table>
+              <thead>
+                <tr>
+                  <th>Technology</th>
+                  <th>Libraries & Frameworks </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>R programming</td>
+                  <td>Row 1, Cell 2</td>
+                </tr>
+                <tr>
+                  <td>Python</td>
+                  <td>Row 2, Cell 2</td>
+                </tr>
+                <tr>
+                  <td> SQL </td>
+                  <td>Row 3, Cell 2</td>
+                </tr>
+                <tr>
+                  <td> R Shiny </td>
+                  <td>Row 4, Cell 2</td>
+                </tr>
+                <tr>
+                  <td> Tableau </td>
+                  <td>Row 5, Cell 2</td>
+                </tr>
+                <tr>
+                  <td> HTML & CSS </td>
+                  <td>Row 6, Cell 2</td>
+                </tr>
+              </tbody>
+            </table>
       </details>
       <details> <summary><b>😍 Area of Interest </b></summary>  
       <ul align = "left">
@@ -33,9 +66,7 @@
     <img src = "https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt = "linkedin logo" width = "35" height = "35" />
   </a> 
 </p>
-
-
-
+            
 ### Skilled in:
 - [x] **Programming languages** R / Python / SQL / VBA
 - [x] **Data wrangling & exploratory analysis** with tidyverse & Pandas and NumPy
