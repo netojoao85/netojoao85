@@ -6,12 +6,14 @@
   </a> 
 </p>
 
-<details align = "left"><summary><b>👤 About me</b></summary>
+<details align = "left"><summary><b>👤 About me</b></summary> <br>
             AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa
             AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+## 
 </details>
       
-<details> <summary><b>💻 Tech </b></summary>
+<details> <summary><b>💻 Tech </b></summary> <br>
             <table>
               <thead>
                 <tr>
@@ -46,9 +48,11 @@
                 </tr>
               </tbody>
             </table>
+  
+## 
 </details>
       
-<details> <summary><b>😍 Area of Interest </b></summary>  
+<details> <summary><b>😍 Area of Interest </b></summary> <br>
       <ul align = "left">
         📉Data Analysis
             <ol>▪️ Data clean and transformation </ol>
@@ -58,9 +62,11 @@
             <ol>▪️ Automation solutions/systems </ol>
             <ol>▪️ Tool development for process improvements </ol>
       </ul>
+
+##
 </details> 
       
-<details> <summary><b>🛠️ Skills </b></summary>  
+<details> <summary><b>🛠️ Skills </b></summary> <br>
     - [x] **Programming languages** R / Python / SQL / VBA      
     - [x] **Data wrangling & exploratory analysis** with tidyverse & Pandas and NumPy       
     - [x] **Data visualisations** with ggplot2 & matplotlib/seaborn       
@@ -74,7 +80,8 @@
     - [x] **Statistical tests & Regression**              
     - [x] **Natural Language techniques:** sentimental analysis and text mining              
     - [x] **Version control** with git & github              
-</details>
 
 ##
+</details>
+
 
