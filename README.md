@@ -74,6 +74,7 @@
     - [x] **Statistical tests & Regression**              
     - [x] **Natural Language techniques:** sentimental analysis and text mining              
     - [x] **Version control** with git & github              
-</details>     
+</details>
+
 ##
 
