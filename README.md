@@ -1,8 +1,8 @@
-# <p align="center"; style> Hi there, I'm João Neto 👋  </p>
+<h1 align="center"> Hi there, I'm João Neto 👋  </h1>
 
 <details>
       <summary> <b>🔎 Expand for more! </b> </summary>
-      <details> <summary>👤 About me</summary>
+      <details><summary><b>👤 About me</b></summary>
             AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
             AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa
             AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -12,17 +12,13 @@
       </details>
       <details> <summary><b>😍 Area of Interest </b></summary>  
       <ul align = "left">
-            Data Analysis
+            📉Data Analysis
                   <ol>▪️ Data clean and transformation </ol>
-            <ol>▪️ Data transformation/manipulation </ol>
-            <ol>▪️ Tool development for process improvements </ol>
-            <ol>▪️ Creating Impactful Data Visualisations </ol>
-            <ol>▪️ Providing data-driven insights to aid decision-making </ol>
-            <ol>▪️ Automation solutions/systems </ol>
-            <ol>▪️ Data transformation/manipulation </ol>
-            <ol>▪️ Tool development for process improvements </ol>
-            <ol>▪️ Creating Impactful Data Visualisations </ol>
-            <ol>▪️ Providing data-driven insights to aid decision-making </ol>
+                  <ol>▪️ Provide data-driven insights to aid decision-making </ol>
+                  <ol>▪️ Create impactful Data Visualisations</ol>
+            📉Data Analysis
+                  <ol>▪️ Automation solutions/systems </ol>
+                  <ol>▪️ Tool development for process improvements </ol>
       </ul>      
       </details>    
 </details>        
