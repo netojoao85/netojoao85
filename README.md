@@ -8,7 +8,7 @@
 
 <p text-align = "justify"><b>💡 WHY ME</b></p>
 
-<p text-align = "justify"><b>🙋🏻‍♂️ HOBBIES</b> I like doing sports (🏃🏻‍♂️running, 🏋🏻cross training, 🚵🏻cycling, 🏊🏻‍♂️swimming) and hanging out with friends. Happy watching football and rugby games, also you can call me for a picnic.</p>
+<p text-align = "justify"><b>🙋🏻‍♂️ HOBBIES</b> I like doing sports (🏃🏻‍♂️running, 🏋🏻cross training, 🚵🏻cycling, 🏊🏻‍♂️swimming) and hanging out with friends. Happy watching football and rugby games, also can call me for a picnic.</p>
 
 <p align = "center">
   <a href = "https://www.linkedin.com/in/joaonetoprofile/" target = "_blank">
