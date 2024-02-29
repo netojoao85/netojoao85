@@ -18,7 +18,7 @@
               <tbody>
                 <tr>
                   <td>R programming</td>
-                  <td>Row 1, Cell 2</td>
+                  <td><img src = "https://github.com/netojoao85/icons/blob/main/pandas_extend.svg" /></td>
                 </tr>
                 <tr>
                   <td>Python</td>
