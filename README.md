@@ -7,14 +7,14 @@
 
 <p><b> BACKGROUND </b> I have almost a decade of experience handling cutting-edge technology to design, develop, and deploy control systems architectures, focusing on industrial automation and digital transformations. Beyond that, I have an MSc in Management and a background in Analytics and Procurement roles. </p>
 
-<p> WHY ME </p>
+<p><b> WHY ME? </b></p>
 
 <p><b> HOBBIES </b> I like doing sports (running 🏃🏻‍♂️, cross-training 🏋🏻, cycling 🚵🏻, swimming 🏊🏻‍♂️), and I'm also a fan of football and rugby games. I enjoy hanging out with friends and am always up for a picnic and travel.</p>
 </div>
 
 <p align = "center">
   <a href = "https://www.linkedin.com/in/joaonetoprofile/" target = "_blank">
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt = "linkedin logo" width = "35" height = "35" />
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt = "linkedin logo" width = "30" height = "30" />
   </a> 
 </p>
 
