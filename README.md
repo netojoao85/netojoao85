@@ -43,11 +43,12 @@
                 </tr>
                 <tr>
                   <td> <img src="https://github.com/netojoao85/icons/blob/main/sql_db.svg" width = "35" height = "35"> SQL </td>
-                  <td>Row 3, Cell 2</td>
+                  <td> </td>
+                  <td> </td>
                 </tr>
                 <tr>
                   <td> <img src="https://github.com/netojoao85/icons/blob/main/shiny.svg" width = "45" height = "45"> R Shiny</td>
-                  <td>Row 4, Cell 2 </td>
+                  <td> </td>
                   <td> </td>
                 </tr>
                 <tr>
@@ -57,12 +58,12 @@
                 </tr>
                 <tr>
                   <td> <img src="https://github.com/netojoao85/icons/blob/main/html5.svg" width = "45" height = "45"><img src="https://github.com/netojoao85/icons/blob/main/css3.svg" width = "45" height = "45"> HTML & CSS </td>
-                  <td>Row 6, Cell 2</td>
+                  <td> </td>
                   <td> </td>
                 </tr>
                 <tr>
                   <td> <img src="https://github.com/netojoao85/icons/blob/main/VBA.svg" width = "45" height = "45"> Visual Basic Applications </td>
-                  <td>Row 7, Cell 2</td>
+                  <td> </td>
                   <td> </td>
                 </tr>
               </tbody>
