@@ -40,6 +40,10 @@
                   <td> HTML & CSS </td>
                   <td>Row 6, Cell 2</td>
                 </tr>
+                <tr>
+                  <td> Visual Basic Application (VBA) </td>
+                  <td>Row 7, Cell 2</td>
+                </tr>
               </tbody>
             </table>
   
