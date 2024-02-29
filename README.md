@@ -9,7 +9,7 @@
 
 <p> WHY ME </p>
 
-<p><b> HOBBIES </b> I like doing sports (running 🏃🏻‍♂️, cross-training 🏋🏻, cycling 🚵🏻, swimming 🏊🏻‍♂️), and I'm also a fan of football and rugby games. I enjoy hanging out with friends and am always up for a picnic and to travel.</p>
+<p><b> HOBBIES </b> I like doing sports (running 🏃🏻‍♂️, cross-training 🏋🏻, cycling 🚵🏻, swimming 🏊🏻‍♂️), and I'm also a fan of football and rugby games. I enjoy hanging out with friends and am always up for a picnic and travel.</p>
 </div>
 
 <p align = "center">
