@@ -41,7 +41,7 @@
                   <td>Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, BeautifoulSoup, Request </td>
                 </tr>
                 <tr>
-                  <td> SQL </td>
+                  <td> <img src="https://github.com/netojoao85/icons/blob/main/sql_db.svg" width = "35" height = "35"> SQL </td>
                   <td>Row 3, Cell 2</td>
                 </tr>
                 <tr>
@@ -53,16 +53,16 @@
                   <td> https://public.tableau.com/app/profile/jneto </td>
                 </tr>
                 <tr>
-                  <td> HTML & CSS </td>
+                  <td> <img src="https://github.com/netojoao85/icons/blob/main/html5.svg" width = "45" height = "45"><img src="https://github.com/netojoao85/icons/blob/main/css3.svg" width = "45" height = "45"> HTML & CSS </td>
                   <td>Row 6, Cell 2</td>
                 </tr>
                 <tr>
-                  <td> Visual Basic Application (VBA) </td>
+                  <td> <img src="https://github.com/netojoao85/icons/blob/main/VBA.svg" width = "35" height = "35"> Visual Basic Applications </td>
                   <td>Row 7, Cell 2</td>
                 </tr>
               </tbody>
             </table>
-  
+ https://github.com/netojoao85/icons/blob/main/sql_db.svg
 ## 
 </details>
       
