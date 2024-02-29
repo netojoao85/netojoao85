@@ -32,11 +32,11 @@
               <tbody>
                 <tr>
                   <td>R programming</td>
-                  <td><img src = "https://github.com/netojoao85/icons/blob/main/pandas_extend.svg" /></td>
+                  <td> Tidyverse, Dplyr, ggplot2, rvest, R Shiny</td>
                 </tr>
                 <tr>
                   <td>Python</td>
-                  <td>Row 2, Cell 2</td>
+                  <td>Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, BeautifoulSoup, Request </td>
                 </tr>
                 <tr>
                   <td> SQL </td>
