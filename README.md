@@ -26,19 +26,20 @@
               <thead>
                 <tr>
                   <th>Programming Language & BI Tools</th>
-                  <th>Libraries & Frameworks </th>
+                  <th>Main Libraries & Frameworks </th>
+                  <th>Framewords</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td> 
-                    <img src="https://github.com/netojoao85/icons/blob/main/r_programming.svg" width = "35" height = "35"> R Programming
-                  </td>
-                  <td> Tidyverse, Dplyr, ggplot2, rvest, R Shiny</td>
+                  <td> <img src="https://github.com/netojoao85/icons/blob/main/r_programming.svg" width = "35" height = "35"> R Programming </td>
+                  <td> Tidyverse, Dplyr, ggplot2, rvest, R Shiny </td>
+                  <td> </td>
                 </tr>
                 <tr>
                   <td> <img src="https://github.com/netojoao85/icons/blob/main/python.svg" width = "35" height = "35"> Python</td>
                   <td>Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, BeautifoulSoup, Request </td>
+                  <td> </td>
                 </tr>
                 <tr>
                   <td> <img src="https://github.com/netojoao85/icons/blob/main/sql_db.svg" width = "35" height = "35"> SQL </td>
@@ -46,19 +47,23 @@
                 </tr>
                 <tr>
                   <td> <img src="https://github.com/netojoao85/icons/blob/main/shiny.svg" width = "45" height = "45"> R Shiny</td>
-                  <td>Row 4, Cell 2</td>
+                  <td>Row 4, Cell 2 </td>
+                  <td> </td>
                 </tr>
                 <tr>
                   <td> <img src="https://github.com/netojoao85/icons/blob/main/tableau.svg" width = "35" height = "35"> Tableau </td>
                   <td> https://public.tableau.com/app/profile/jneto </td>
+                  <td> </td>
                 </tr>
                 <tr>
                   <td> <img src="https://github.com/netojoao85/icons/blob/main/html5.svg" width = "45" height = "45"><img src="https://github.com/netojoao85/icons/blob/main/css3.svg" width = "45" height = "45"> HTML & CSS </td>
                   <td>Row 6, Cell 2</td>
+                  <td> </td>
                 </tr>
                 <tr>
                   <td> <img src="https://github.com/netojoao85/icons/blob/main/VBA.svg" width = "45" height = "45"> Visual Basic Applications </td>
                   <td>Row 7, Cell 2</td>
+                  <td> </td>
                 </tr>
               </tbody>
             </table>
