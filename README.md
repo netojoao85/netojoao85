@@ -11,7 +11,7 @@
 <p></p>
 
 <p text-align = "justify"><b>HOBBIES</b></p>
-<p>I like sports (🏃🏻‍♂️running, 🏋🏻cross training, 🚵🏻cycling, 🏊🏻‍♂️swimming) and hanging out with friends. And, watch football and rugby games 🏉⚽. </p>
+<p>I like doing sports (🏃🏻‍♂️running, 🏋🏻cross training, 🚵🏻cycling, 🏊🏻‍♂️swimming) and hanging out with friends. Happy watching football⚽ and rugby games🏉, also you can call me for a picnic.</p>
 
             
 <p align = "center">
