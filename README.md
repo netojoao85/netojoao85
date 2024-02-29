@@ -1,13 +1,17 @@
 <img src = "https://github.com/netojoao85/icons/blob/main/banner9.png" /> 
 
 <details align = "left"><summary><b>👤 About me</b></summary> <br>
-            <p text-align = "justify"><b>WHO AM I?</b></p>
-            I am an Automation & Control engineer qualified as a Data Scientist too. And I love developing Data Analysis and writing code to automate solutions.
-            <p text-align = "justify"><b>BACKGROUND</b></p>
-I have almost a decade of experience designing, developing, and deploying systems architectures focusing on automation and digital transformations, bringing me a background of working with cutting-edge tech. Beyond that, I have an MSc in Management & Industrial Strategy and experience in Analytics and Procurement roles. 
-            <p text-align = "justify"><b>WHY ME</b></p>
-            <p text-align = "justify"><b>HOBBIES</b></p>
-            I like sports (running, crosstraining, swimming) and hanging out with friends. 
+
+<p text-align = "justify"><b>WHO AM I?</b></p> I am an Automation & Control engineer qualified as a Data Scientist too. And I love developing Data Analysis and writing code to automate solutions.
+
+<p text-align = "justify"><b>BACKGROUND</b></p>
+<p>I have almost a decade of experience designing, developing, and deploying systems architectures focusing on automation and digital transformations, bringing me a background of working with cutting-edge tech. Beyond that, I have an MSc in Management & Industrial Strategy and experience in Analytics and Procurement roles. 
+</p>
+<p text-align = "justify"><b>WHY ME</b></p>
+<p></p>
+
+<p text-align = "justify"><b>HOBBIES</b></p>
+<p>I like sports (🏃🏻‍♂️running, 🏋🏻cross training, 🚵🏻cycling, 🏊🏻‍♂️swimming) and hanging out with friends. And, watch football and rugby games 🏉⚽. </p>
 
             
 <p align = "center">
