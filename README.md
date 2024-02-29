@@ -25,7 +25,7 @@
             <table>
               <thead>
                 <tr>
-                  <th>Technology</th>
+                  <th>Programming Language & BI Tools</th>
                   <th>Libraries & Frameworks </th>
                 </tr>
               </thead>
