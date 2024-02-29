@@ -62,8 +62,8 @@
                 </tr>
               </tbody>
             </table>
- https://github.com/netojoao85/icons/blob/main/sql_db.svg
-## 
+
+  ## 
 </details>
       
 <details> <summary><b>🛠️ Skills </b></summary> <br>
