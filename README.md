@@ -27,7 +27,7 @@
                 <tr>
                   <th>Programming & BI Tools</th>
                   <th>Main Libraries </th>
-                  <th>Framewords</th>
+                  <th>Frameworks</th>
                 </tr>
               </thead>
               <tbody>
