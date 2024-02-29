@@ -31,11 +31,13 @@
               </thead>
               <tbody>
                 <tr>
-                  <td>R programming</td>
+                  <td> 
+                    <img src="https://github.com/netojoao85/icons/blob/main/r_programming.svg" width = "35" height = "35"> R Programming
+                  </td>
                   <td> Tidyverse, Dplyr, ggplot2, rvest, R Shiny</td>
                 </tr>
                 <tr>
-                  <td>Python</td>
+                  <td> <img src="https://github.com/netojoao85/icons/blob/main/python.svg" width = "35" height = "35"> Python</td>
                   <td>Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, BeautifoulSoup, Request </td>
                 </tr>
                 <tr>
@@ -43,11 +45,11 @@
                   <td>Row 3, Cell 2</td>
                 </tr>
                 <tr>
-                  <td> R Shiny </td>
+                  <td> <img src="https://github.com/netojoao85/icons/blob/main/shiny.svg" width = "35" height = "35"> R Shiny</td>
                   <td>Row 4, Cell 2</td>
                 </tr>
                 <tr>
-                  <td> Tableau </td>
+                  <td> <img src="https://github.com/netojoao85/icons/blob/main/tableau.svg" width = "35" height = "35"> Tableau </td>
                   <td> https://public.tableau.com/app/profile/jneto </td>
                 </tr>
                 <tr>
