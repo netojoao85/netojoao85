@@ -64,20 +64,6 @@
 ## 
 </details>
       
-<details> <summary><b>😍 Area of Interest </b></summary> <br>
-      <ul align = "left">
-        📉Data Analysis
-            <ol>▪️ Data clean and transformation </ol>
-             <ol>▪️ Provide data-driven insights to aid decision-making </ol>
-             <ol>▪️ Create impactful Data Visualisations</ol>
-        📉Data Analysis
-            <ol>▪️ Automation solutions/systems </ol>
-            <ol>▪️ Tool development for process improvements </ol>
-      </ul>
-
-##
-</details> 
-      
 <details> <summary><b>🛠️ Skills </b></summary> <br>
     - [x] **Programming languages** R / Python / SQL / VBA      
     - [x] **Data wrangling & exploratory analysis** with tidyverse & Pandas and NumPy       
