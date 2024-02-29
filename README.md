@@ -25,8 +25,8 @@
             <table>
               <thead>
                 <tr>
-                  <th>Programming Language & BI Tools</th>
-                  <th>Main Libraries & Frameworks </th>
+                  <th>Programming & BI Tools</th>
+                  <th>Main Libraries </th>
                   <th>Framewords</th>
                 </tr>
               </thead>
