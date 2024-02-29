@@ -57,7 +57,7 @@
                   <td>Row 6, Cell 2</td>
                 </tr>
                 <tr>
-                  <td> <img src="https://github.com/netojoao85/icons/blob/main/VBA.svg" width = "35" height = "35"> Visual Basic Applications </td>
+                  <td> <img src="https://github.com/netojoao85/icons/blob/main/VBA.svg" width = "45" height = "45"> Visual Basic Applications </td>
                   <td>Row 7, Cell 2</td>
                 </tr>
               </tbody>
