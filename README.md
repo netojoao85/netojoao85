@@ -45,7 +45,7 @@
                   <td>Row 3, Cell 2</td>
                 </tr>
                 <tr>
-                  <td> <img src="https://github.com/netojoao85/icons/blob/main/shiny.svg" width = "35" height = "35"> R Shiny</td>
+                  <td> <img src="https://github.com/netojoao85/icons/blob/main/shiny.svg" width = "45" height = "45"> R Shiny</td>
                   <td>Row 4, Cell 2</td>
                 </tr>
                 <tr>
