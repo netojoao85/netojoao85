@@ -48,7 +48,7 @@
                 </tr>
                 <tr>
                   <td> Tableau </td>
-                  <td>Row 5, Cell 2</td>
+                  <td> https://public.tableau.com/app/profile/jneto </td>
                 </tr>
                 <tr>
                   <td> HTML & CSS </td>
