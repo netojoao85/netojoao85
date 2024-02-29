@@ -1,13 +1,14 @@
 <img src = "https://github.com/netojoao85/icons/blob/main/banner9.png" /> 
 
-<p align="center"> Lisbon (PT) & Edinburgh (SCA) </p>
+<p align = "center"> Lisbon (PT) & Edinburgh (SCA) </p> 
 
-<p align="center">
+<p align = "center">
   <a href = "https://www.linkedin.com/in/joaonetoprofile/" target = "_blank">
     <img src = "https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt = "linkedin logo" width = "35" height = "35" />
   </a> 
 </p>
 
+##
 
 <details align = "left"><summary><b>👤 About me</b></summary> <br>
             AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa
