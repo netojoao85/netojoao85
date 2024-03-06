@@ -32,37 +32,37 @@
               </thead>
               <tbody>
                 <tr>
-                  <td> <img src="https://github.com/netojoao85/icons/blob/main/r_programming.svg" width = "35" height = "35"> R Programming </td>
+                  <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/r_programming.svg" width = "35" height = "35"> R Programming </td>
                   <td> Tidyverse, Dplyr, ggplot2, rvest </td>
                   <td> R Shiny </td>
                 </tr>
                 <tr>
-                  <td> <img src="https://github.com/netojoao85/icons/blob/main/python.svg" width = "35" height = "35"> Python</td>
+                  <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/python.svg" width = "35" height = "35"> <br> Python</td>
                   <td>Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, BeautifoulSoup, Request </td>
                   <td> Flask </td>
                 </tr>
                 <tr>
-                  <td> <img src="https://github.com/netojoao85/icons/blob/main/sql_db.svg" width = "35" height = "35"> SQL </td>
+                  <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/sql_db.svg" width = "35" height = "35"> <br> SQL </td>
                   <td> </td>
                   <td> </td>
                 </tr>
                 <tr>
-                  <td> <img src="https://github.com/netojoao85/icons/blob/main/shiny.svg" width = "45" height = "45"> R Shiny</td>
+                  <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/shiny.svg" width = "45" height = "45">  <br> R Shiny</td>
                   <td> </td>
                   <td> </td>
                 </tr>
                 <tr>
-                  <td> <img src="https://github.com/netojoao85/icons/blob/main/tableau.svg" width = "35" height = "35"> Tableau </td>
+                  <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/tableau.svg" width = "35" height = "35">  <br> Tableau </td>
                   <td> https://public.tableau.com/app/profile/jneto </td>
                   <td> </td>
                 </tr>
                 <tr>
-                  <td> <img src="https://github.com/netojoao85/icons/blob/main/html5.svg" width = "45" height = "45"><img src="https://github.com/netojoao85/icons/blob/main/css3.svg" width = "45" height = "45"> HTML & CSS </td>
+                  <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/html5.svg" width = "45" height = "45"><img src="https://github.com/netojoao85/icons/blob/main/css3.svg" width = "45" height = "45">  <br> HTML & CSS </td>
                   <td> </td>
                   <td> </td>
                 </tr>
                 <tr>
-                  <td> <img src="https://github.com/netojoao85/icons/blob/main/VBA.svg" width = "45" height = "45"> Visual Basic Applications </td>
+                  <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/VBA.svg" width = "45" height = "45">  <br> Visual Basic Applications </td>
                   <td> </td>
                   <td> </td>
                 </tr>
