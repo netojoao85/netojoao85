@@ -3,13 +3,13 @@
 <details align = "left"><summary><b>👤 About me</b></summary> <br>
 
 <div style="text-align: justify;">
-<p><b> WHO AM I? </b> I am an Automation & Control engineer qualified as a Data Scientist. And I love writing code to automate solutions and developing Data Analysis.
+<p align = "justify"><b> WHO AM I? </b> I am an Automation & Control engineer qualified as a Data Scientist. And I love writing code to automate solutions and developing Data Analysis.
 
-<p><b> BACKGROUND </b> I have almost a decade of experience handling cutting-edge technology to design, develop, and deploy control systems architectures, focusing on industrial automation and digital transformations. Beyond that, I have an MSc in Management and a background in Analytics and Procurement roles. </p>
+<p align = "justify"><b> BACKGROUND </b> I have almost a decade of experience handling cutting-edge technology to design, develop, and deploy control systems architectures, focusing on industrial automation and digital transformations. Beyond that, I have an MSc in Management and a background in Analytics and Procurement roles. </p>
 
-<p><b> WHY ME? </b></p>
+<p align = "justify"><b> WHY ME? </b> With a technical and analytical background, I have experience coding, automating processes, and analyzing data. My background and success working with multidisciplinary teams and stakeholders demonstrate my ability to integrate different projects.</p>
 
-<p><b> HOBBIES </b> I like doing sports (running 🏃🏻‍♂️, cross-training 🏋🏻, cycling 🚵🏻, swimming 🏊🏻‍♂️), and I'm also a fan of football and rugby games. I enjoy hanging out with friends and am always up for a picnic and travel.</p>
+<p align = "justify"><b> HOBBIES </b> I like doing sports (running 🏃🏻‍♂️, cross-training 🏋🏻, cycling 🚵🏻, swimming 🏊🏻‍♂️), and I'm also a fan of football and rugby games. I enjoy hanging out with friends and am always up for a picnic and travel.</p>
 </div>
 
 <p align = "center">
