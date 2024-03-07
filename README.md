@@ -33,7 +33,7 @@
               <tbody>
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/r_programming.svg" width = "35" height = "35"> <br> R Programming </td>
-                  <td> Tidyverse, Dplyr, ggplot2, rvest </td>
+                  <td> Tidyverse, Dplyr, ggplot2, lubridate, infer, modelr, tidytext </td>
                   <td> R Shiny </td>
                 </tr>
                 <tr>
