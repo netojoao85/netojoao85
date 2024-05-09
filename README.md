@@ -37,20 +37,20 @@
                   <td> R Shiny </td>
                 </tr>
                 <tr>
-                  <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/python.svg" width = "35" height = "35"> <br> Python</td>
-                  <td>Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, BeautifoulSoup, Request </td>
-                  <td> Flask </td>
-                </tr>
-                <tr>
-                  <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/sql_db.svg" width = "35" height = "35"> <br> SQL </td>
-                  <td> </td>
-                  <td> </td>
-                </tr>
-                <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/shiny.svg" width = "45" height = "45">  <br> R Shiny</td>
                   <td> </td>
                   <td> </td>
                 </tr>
+                <tr>
+                  <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/python.svg" width = "35" height = "35"> <br> Python</td>
+                  <td>Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, <br> BeautifoulSoup, Request <br> Flask </td>
+                  <td> Flask </td>
+                </tr>
+                <tr>
+                  <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/sql_db.svg" width = "35" height = "35"> <br> SQL </td>
+                  <td> Database querying with Transact-SQL (T-SQL)  & PostgreSQL <br><br> Filter & sorting ; <br> grouping; <br> window functions; <br>CTE (Common Table Expression) </td>
+                  <td> </td>
+                </tr> 
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/tableau.svg" width = "35" height = "35">  <br> Tableau </td>
                   <td> https://public.tableau.com/app/profile/jneto </td>
