@@ -67,12 +67,13 @@
 <details> <summary><b>🛠️ Skills </b></summary> <br>
   
 - [x] **Data wrangling & exploratory analysis**
-- [x] **Data visualisations & Dashboards**                                                
+- [x] **Data visualisations & Dashboards**
+- [x] **Database querying**
+- [x] **Statistical tests & Regression**       
+- [x] **Web Development Apps**
+- [x] **Web Scraping & APIs**                                                  
 - [x] **Notebooks and reporting** with R Markdown & jupyter        
-- [x] **Database querying**        
-- [x] **Statistical tests & Regression**              
-- [x] **Natural Language techniques:** sentimental analysis and text mining              
-- [x] **Version control**            
+- [x] **Natural Language techniques:** sentimental analysis and text mining           
 
 ##
 </details>
