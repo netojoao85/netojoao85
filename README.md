@@ -27,18 +27,15 @@
                 <tr>
                   <th>Programming & BI Tools</th>
                   <th>Main Libraries </th>
-                  <th>Frameworks</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/r_programming.svg" width = "35" height = "35"> <br> R Programming </td>
                   <td> Tidyverse, Dplyr, ggplot2, lubridate, infer, modelr, tidytext, leaflet </td>
-                  <td> R Shiny </td>
                 </tr>
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/shiny.svg" width = "45" height = "45">  <br> R Shiny</td>
-                  <td> </td>
                   <td> </td>
                 </tr>
                 <tr>
@@ -49,21 +46,17 @@
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/sql_db.svg" width = "35" height = "35"> <br> SQL </td>
                   <td> <b>Querying with Transact-SQL (T-SQL)  & PostgreSQL</b> <br><br> Filter & sorting ; <br> grouping; <br> window functions; <br>CTE                              (Common Table Expression) </td>
-                  <td> </td>
                 </tr> 
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/tableau.svg" width = "35" height = "35">  <br> Tableau </td>
                   <td> https://public.tableau.com/app/profile/jneto </td>
-                  <td> </td>
                 </tr>
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/html5.svg" width = "45" height = "45"><img src="https://github.com/netojoao85/icons/blob/main/css3.svg" width = "45" height = "45">  <br> HTML & CSS </td>
                   <td> </td>
-                  <td> </td>
                 </tr>
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/VBA.svg" width = "45" height = "45">  <br> Visual Basic Applications </td>
-                  <td> </td>
                   <td> </td>
                 </tr>
               </tbody>
