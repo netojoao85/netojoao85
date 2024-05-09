@@ -33,7 +33,7 @@
               <tbody>
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/r_programming.svg" width = "35" height = "35"> <br> R Programming </td>
-                  <td> Tidyverse, Dplyr, ggplot2, lubridate, infer, modelr, tidytext </td>
+                  <td> Tidyverse, Dplyr, ggplot2, lubridate, infer, modelr, tidytext, leaflet </td>
                   <td> R Shiny </td>
                 </tr>
                 <tr>
@@ -48,7 +48,7 @@
                 </tr>
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/sql_db.svg" width = "35" height = "35"> <br> SQL </td>
-                  <td> Database querying with Transact-SQL (T-SQL)  & PostgreSQL <br><br> Filter & sorting ; <br> grouping; <br> window functions; <br>CTE (Common Table Expression) </td>
+                  <td> <b>Querying with Transact-SQL (T-SQL)  & PostgreSQL</b> <br><br> Filter & sorting ; <br> grouping; <br> window functions; <br>CTE                              (Common Table Expression) </td>
                   <td> </td>
                 </tr> 
                 <tr>
