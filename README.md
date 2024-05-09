@@ -26,7 +26,7 @@
               <thead>
                 <tr>
                   <th>Programming & BI Tools</th>
-                  <th>Main Libraries </th>
+                  <th> Skills / tools / libraries </th>
                 </tr>
               </thead>
               <tbody>
