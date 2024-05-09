@@ -41,7 +41,6 @@
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/python.svg" width = "35" height = "35"> <br> Python</td>
                   <td>Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, <br> BeautifoulSoup, Request <br> Flask </td>
-                  <td> Flask </td>
                 </tr>
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/sql_db.svg" width = "35" height = "35"> <br> SQL </td>
