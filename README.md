@@ -36,11 +36,11 @@
                 </tr>
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/shiny.svg" width = "45" height = "45">  <br> R Shiny</td>
-                  <td> </td>
+                  <td> https://jneto.shinyapps.io/hyrox_wc23 <br> https://jneto.shinyapps.io/my_running </td>
                 </tr>
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/python.svg" width = "35" height = "35"> <br> Python</td>
-                  <td>Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, <br> BeautifoulSoup, Request <br> Flask </td>
+                  <td>Pandas, NumPy, Matplotlib, Seaborn, scikit-learn <br> BeautifoulSoup, Request <br> Flask </td>
                 </tr>
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/sql_db.svg" width = "35" height = "35"> <br> SQL </td>
@@ -65,20 +65,14 @@
 </details>
       
 <details> <summary><b>🛠️ Skills </b></summary> <br>
-
-- [x] **Programming languages** R / Python / SQL / VBA      
-- [x] **Data wrangling & exploratory analysis** with tidyverse & Pandas and NumPy       
-- [x] **Data visualisations & Dashboards** with ggplot2 & matplotlib/seaborn       
-- [X] **R Shiny** complemented with HTML & CSS      
-            https://jneto.shinyapps.io/hyrox_wc23              
-            https://jneto.shinyapps.io/my_running                         
-- [x] **Dashboards** with Tableau & Power BI         
-            https://public.tableau.com/app/profile/jneto                      
+  
+- [x] **Data wrangling & exploratory analysis**
+- [x] **Data visualisations & Dashboards**                                                
 - [x] **Notebooks and reporting** with R Markdown & jupyter        
 - [x] **Database querying**        
 - [x] **Statistical tests & Regression**              
 - [x] **Natural Language techniques:** sentimental analysis and text mining              
-- [x] **Version control** with git & github              
+- [x] **Version control**            
 
 ##
 </details>
