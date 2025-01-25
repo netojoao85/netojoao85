@@ -56,7 +56,7 @@
                 </tr>
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/VBA.svg" width = "45" height = "45">  <br> Visual Basic Applications </td>
-                  <td> </td>
+                  <td> A number of applications were successfully developed and deployed to automate different kinds of processes, such as purchasing or actuarial workflows. </td>
                 </tr>
               </tbody>
             </table>
