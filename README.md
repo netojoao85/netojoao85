@@ -36,11 +36,11 @@
                 </tr>
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/shiny.svg" width = "45" height = "45">  <br> R Shiny</td>
-                  <td> https://jneto.shinyapps.io/hyrox_wc23 <br> https://jneto.shinyapps.io/my_running </td>
+                 <td>  </td>
                 </tr>
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/python.svg" width = "35" height = "35"> <br> Python</td>
-                  <td>Pandas, NumPy, Matplotlib, Seaborn, scikit-learn <br> BeautifoulSoup, Request <br> Flask </td>
+                  <td>Pandas, NumPy, Matplotlib, Seaborn, scikit-learn <br> BeautifoulSoup, Request </td>
                 </tr>
                 <tr>
                   <td align = "center"> <img src="https://github.com/netojoao85/icons/blob/main/sql_db.svg" width = "35" height = "35"> <br> SQL </td>
