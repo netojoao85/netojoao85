@@ -1,4 +1,4 @@
-<!-- <img src = "https://github.com/netojoao85/icons/blob/main/banner.png" /> --> 
+<!-- <img src = "https://github.com/netojoao85/icons/blob/main/banner.png" />
 
 <details align = "left"><summary><b>👤 About me</b></summary> <br>
 
@@ -12,6 +12,8 @@
 
 <p align = "justify"><b> HOBBIES </b> I like doing sports (running 🏃🏻‍♂️, cross-training 🏋🏻, cycling 🚵🏻, swimming 🏊🏻‍♂️), and I'm also a fan of football and rugby games. I enjoy hanging out with friends and am always up for a picnic and travel.</p>
 </div>
+
+ --> 
 
 <p align = "center">
   <a href = "https://www.linkedin.com/in/joaonetoprofile/" target = "_blank">
