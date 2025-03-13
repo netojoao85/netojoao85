@@ -3,7 +3,7 @@
 <details align = "left"><summary><b>👤 About me</b></summary> <br>
 
 <div style="text-align: justify;">
-<p align = "justify"><b> WHO AM I? </b> I am an Automation & Control engineer qualified as a Data Scientist. And I love writing code to automate solutions and developing Data Analysis.
+<p align = "justify"><b> WHO AM I? </b> I am an Automation & Control engineer with an MSc in Management and Industrial Strategy. I also have professional qualifications in data science. I love writing code to automate solutions and develop data analysis.
 
 <p align = "justify"><b> BACKGROUND </b> I have almost a decade of experience handling cutting-edge technology to design, develop, and deploy control systems architectures, focusing on industrial automation and digital transformations. Beyond that, I have an MSc in Management and a background in Analytics and Procurement roles. </p>
 
@@ -73,7 +73,7 @@
 - [x] **Web Development Apps**
 - [x] **Web Scraping & APIs**                                                  
 - [x] **Notebooks and reporting** with R Markdown & jupyter        
-- [x] **Natural Language techniques:** sentimental analysis and text mining           
+<!-- - [x] **Natural Language techniques:** sentimental analysis and text mining -->          
 
 ##
 </details>
